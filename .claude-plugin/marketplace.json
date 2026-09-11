@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "loader-probe",
+  "owner": {
+    "name": "superagnt",
+    "url": "https://superagnt.com"
+  },
+  "description": "Throwaway probe: verifies one repo can carry both the Claude and Codex marketplace catalogs.",
+  "plugins": [
+    {
+      "name": "probe",
+      "source": "./plugins/probe",
+      "description": "Probe plugin: one skill, no MCP.",
+      "category": "productivity",
+      "keywords": [
+        "probe"
+      ]
+    }
+  ]
+}

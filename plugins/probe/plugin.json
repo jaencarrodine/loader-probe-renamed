@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.json",
+  "name": "probe",
+  "version": "0.0.1",
+  "description": "Throwaway loader probe. One skill, no MCP, no commands.",
+  "license": "MIT"
+}

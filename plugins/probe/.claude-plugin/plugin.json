@@ -1,0 +1,8 @@
+{
+  "name": "probe",
+  "displayName": "loader probe",
+  "version": "0.0.1",
+  "description": "Throwaway loader probe. One skill, no MCP, no commands.",
+  "author": { "name": "superagnt", "url": "https://superagnt.com" },
+  "license": "MIT"
+}
